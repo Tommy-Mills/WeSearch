@@ -1,0 +1,27 @@
+<!--HTML GUIDE-->
+<!--THIS IS A COMMENT-->
+
+<openingtag>
+Tags are encapsulating information about the content you're filling out. 
+You will almost always need an opening tag for every closing tag.
+They are signified by <> and </> respectively.
+</closingtag>
+
+<a href="https://www.google.com/">This link is to another page. The tag for a link is <a> and to add a hyperlink set the href quality = a website or file url in quotes</a>
+
+<hr> <!--This makes a horizontal line.-->
+<br/> <!--This is like the enter button, starts on a new line-->
+<img /> is the tag used to add images. You need to keep the picture you want it to show in the same folder, and set the quality src = the file url.
+<img src = "image.png"/> It is a self closing tag, with the / included in the tag, so do not worry about closing it.
+
+<p>
+This is a paragraph holder.
+</p>
+
+<div>
+This is another holder.
+</div>
+
+<span>
+This is yet another holder.
+</span>
