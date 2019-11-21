@@ -13,15 +13,21 @@ They are signified by <> and </> respectively.
 <br/> <!--This is like the enter button, starts on a new line-->
 <img /> is the tag used to add images. You need to keep the picture you want it to show in the same folder, and set the quality src = the file url.
 <img src = "image.png"/> It is a self closing tag, with the / included in the tag, so do not worry about closing it.
+This creates an image in the page (<img...) and sets the image to be shown to this file (src = "image.png") and then closes (/>)
 
 <p>
-This is a paragraph holder.
+This is a text holder. These tags are paragraph tags.
 </p>
 
 <div>
-This is another holder.
+This is another text holder.
 </div>
 
 <span>
-This is yet another holder.
+This is yet another text holder. These tags are supposed to hold what is inside on the same line.
 </span>
+
+<div class = "row">
+This is a text holder with a class specified that is called row.
+</div>
+
