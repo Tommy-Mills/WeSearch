@@ -1,1 +1,49 @@
+html
+{
+	background-color:white;
+	border:6px solid deepskyblue;
+}
+
+.topbar { 
+
+height: 30px; 
+
+width: 100%; 
+
+}
+
+
+li {
+
+list-style-type: none;
+}
+
+.topbar, li, a {
+
+text-decoration: none;
+
+padding: 7px 10px;
+
+opacity:0.8
+
+}
+
+
+
+.topbar, li, a:hover {
+
+font-weight: bold;
+
+color: green;
+
+opacity:1
+
+}
+
+.topbar
+{
+	position:relative;
+	margin-right:0px;
+	top:5%;
+}
 
